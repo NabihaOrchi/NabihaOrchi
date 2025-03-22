@@ -1,7 +1,7 @@
 <img src="banner_github_.png" alt="GitHub Banner" width="100%" />
 
 
-<h1 align="center">Hello Data Universe 👋 – Where every byte tells a story! 📊✨ NabihaOrchi here...</h1>
+<h1 align="center">Hello Data Universe 👋 – Where every byte tells a story! 📊✨ Nabiha Tasnim Orchi here...</h1>
 <h3 align="center">A data wizard conjuring insights from the vibrant shores of Bangladesh, where every dataset tells a story waiting to be discovered. 🇧🇩✨📊</h3>
 
 # 💫 About Me:
