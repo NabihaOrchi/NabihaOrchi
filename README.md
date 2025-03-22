@@ -30,9 +30,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NabihaOrchi/NabihaOrchi/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/NabihaOrchi/NabihaOrchi/output/github-snake.svg" />
 </picture>
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
